@@ -1,0 +1,25 @@
+Age,Prescription,Astigmatic,TearRate,Label
+17,myope,no,reduced,no lenses
+21,myope,no,normal,soft
+18,myope,yes,reduced,no lenses
+26,myope,yes,normal,hard
+19,hypermetrope,no,reduced,no lenses
+22,hypermetrope,no,normal,soft
+20,hypermetrope,yes,reduced,no lenses
+25,hypermetrope,yes,normal,hard
+30,myope,no,reduced,no lenses
+36,myope,no,normal,soft
+32,myope,yes,reduced,no lenses
+42,myope,yes,normal,hard
+28,hypermetrope,no,reduced,no lenses
+37,hypermetrope,no,normal,soft
+29,hypermetrope,yes,reduced,no lenses
+31,hypermetrope,yes,normal,no lenses
+45,myope,no,reduced,no lenses
+42,myope,no,normal,no lenses
+49,myope,yes,reduced,no lenses
+70,myope,yes,normal,hard
+51,hypermetrope,no,reduced,no lenses
+57,hypermetrope,no,normal,soft
+43,hypermetrope,yes,reduced,no lenses
+44,hypermetrope,yes,normal,no lenses
